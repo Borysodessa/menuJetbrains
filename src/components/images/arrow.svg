@@ -1,0 +1,28 @@
+<svg width="8" height="5" viewBox="0 0 8 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="8" height="5" fill="#F5F5F5"/>
+<g id="Web-Help 2.0 Guidelines" clip-path="url(#clip0_0_1)">
+<rect width="1500" height="4939" transform="translate(-11 -223)" fill="white"/>
+<g id="Side Menu" clip-path="url(#clip1_0_1)">
+<g id="Rectangle 4" filter="url(#filter0_d_0_1)">
+<rect x="-11" y="-173" width="300" height="4907" fill="#FAFAFA"/>
+</g>
+<path id="&#239;&#132;&#134;" fill-rule="evenodd" clip-rule="evenodd" d="M7.79688 0.648433C7.79688 0.585933 7.76563 0.51562 7.71876 0.468745L7.32813 0.0781198C7.28126 0.0312448 7.21876 -5.24521e-06 7.14845 -5.24521e-06C7.08595 -5.24521e-06 7.01563 0.0312448 6.96876 0.0781198L3.89844 3.14844L0.828126 0.0781198C0.781251 0.0312448 0.710938 -5.24521e-06 0.648438 -5.24521e-06C0.585938 -5.24521e-06 0.515626 0.0312448 0.468751 0.0781198L0.0781251 0.468745C0.03125 0.51562 0 0.585933 0 0.648433C0 0.710933 0.03125 0.781245 0.0781251 0.82812L3.71875 4.46875C3.76563 4.51562 3.83594 4.54688 3.89844 4.54688C3.96094 4.54688 4.03125 4.51562 4.07813 4.46875L7.71876 0.82812C7.76563 0.781245 7.79688 0.710933 7.79688 0.648433Z" fill="#343434"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_1" x="-11" y="-173" width="301" height="4907" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.901961 0 0 0 0 0.901961 0 0 0 0 0.901961 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+<clipPath id="clip0_0_1">
+<rect width="1500" height="4939" fill="white" transform="translate(-11 -223)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="300" height="4931" fill="white" transform="translate(-11 -197)"/>
+</clipPath>
+</defs>
+</svg>
