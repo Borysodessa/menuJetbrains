@@ -1,32 +1,18 @@
-/* .angle-down{
+
+html,body{
+    min-height:100%
+} 
+
+#root{
+    height: 100%;
+}
+.angle-down{
    background: none; 
    border: none;
 }
 a{
+    width: 80%;
     text-decoration: none; 
-     color: #343434;
-    font-family: OpenSans;
-    font-size: 14px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    letter-spacing: -0.1px;
-}
-  
-.list{
-    list-style: none;
-}
-
-.toc-tree{
-    margin-left:15px;
-    padding-left: 0;
-    width:300px;
-    height: 4000px;
-    background: #FAFAFA;
-    box-shadow: 1px 0px 0px 0px #E6E6E6;
-}
-
-.item{
     color: #343434;
     font-family: OpenSans;
     font-size: 14px;
@@ -35,4 +21,46 @@ a{
     line-height: normal;
     letter-spacing: -0.1px;
 }
- */
+  .item{
+    color: #343434;
+    font-family: OpenSans,Helvetica,
+        Arial,
+        sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    margin-bottom: 10px;
+}
+.list{
+    list-style: none;
+}
+
+.section__app{
+    margin-left: 0;
+    width: 300px;
+    min-height: 100%;
+
+   box-sizing: border-box;
+   height:100%; 
+   background: #FAFAFA;  
+   box-shadow: 1px 0px 0px 0px #E6E6E6;
+}
+
+.toc-tree{ 
+     margin-left:5px;  
+     padding-left: 0; 
+     max-width:300px;
+ 
+   
+}
+.toc-tree__item{
+    width:auto;
+    margin-left: 20px; 
+}
+
+.menu-list{
+  margin-left: 20px;  
+}
+

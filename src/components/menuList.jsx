@@ -5,12 +5,12 @@ import { MenuJetbains } from "./menuJetbains";
 export function MenuList({ item, entitiesPages }) {
   const [isCollapsed, setIsCollapsed] = useState(false);
 
-  function сollapseList(el) {
+  function сollapseList() {
     setIsCollapsed(!isCollapsed);
   }
 
   return (
-    <li className=" item toc-tree__item--level_0">
+    <li className=" item toc-tree__item">
       {item.pages && (
         <ArrowButton
           onClick={() => сollapseList(item.id)}
